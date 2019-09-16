@@ -1,9 +1,10 @@
 import os, sys, json
 
-file_path = "./conf/memtier-sample.json" if len(sys.argv) == 1 else sys.argv[1]
-json_data = json.loads(open(file_path).read())
+json_path = "./conf/memtier-sample.json" if len(sys.argv) == 1 else sys.argv[1]
+json_data = json.loads(open(json_path).read())
 
-cmd = "./memtier_benchmark"
+memtier_path= "./memtier_benchmark"
+cmd = memtier_path
 
 for key, value in json_data.items():
     dash =  "-" if len(key) == 1 else "--"
