@@ -13,3 +13,11 @@
 ```
 python ./memtier-json.py conf/memtier-sample.json
 ```
+
+json의 key는 memtier_benchmark의 command argument입니다. argument 앞의 -, --를 생략해서 입력합니다.
+
+예시 
+```
+"server":"127.0.0.1"
+"P":12001
+```
