@@ -1,0 +1,13 @@
+{
+    "server":"jam2in-t003",
+    "port":"11900",
+    "threads":"5",
+    "clients":"10",
+    "protocol":"memcache_text",
+    "data-size":"20",
+    "key-pattern":"P:P",
+    "key-minimum":"1",
+    "key-maximum":"10000000",
+    "ratio":"0:1",
+    "requests":"10000"
+}
