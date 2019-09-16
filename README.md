@@ -4,7 +4,7 @@
 
 사용을 위해 파이썬2 (2.6 이상) 또는 파이썬3가 필요합니다.
 
-# 사용법 
+# 사용법
 
 1. memtier-json.py의 6번째 줄의 memtier_path를 memtier_benchmark의 실행파일의 주소로 수정합니다.
 2. conf/memtier-sample.json 파일을 참고해 실행 설정을 저장한 json 파일을 만듭니다. 
@@ -14,10 +14,15 @@
 python ./memtier-json.py conf/memtier-sample.json
 ```
 
+# json 파일 설정법
+
 json의 key는 memtier_benchmark의 command argument입니다. argument 앞의 -, --를 생략해서 입력합니다.
 
-예시 
+## 예시 
+
 ```
 "server":"127.0.0.1"
 "P":12001
 ```
+
+아직 debug나 show-config 같이 value가 없는 옵션은 지원이 안 됩니다. 
