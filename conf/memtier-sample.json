@@ -1,0 +1,8 @@
+{
+    "server":"127.0.0.1",
+    "port":"6379",
+    "threads":"10",
+    "protocol":"memcache_text",
+    "data-size":"512",
+    "key-maximum":"100000"
+}
