@@ -2,6 +2,8 @@
 
 [memtier_benchmark](https://github.com/RedisLabs/memtier_benchmark) 의 실행 옵션을 json 파일로 설정할 수 있게 한 스크립트입니다.
 
+인자를 매번 설정해주는 대신 자주 쓰는 설정을 저장해두고 편하게 쓸 수 있습니다.
+
 사용을 위해 파이썬2 (2.6 이상) 또는 파이썬3가 필요합니다.
 
 # 사용법
