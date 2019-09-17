@@ -18,7 +18,7 @@ python ./memtier-json.py conf/memtier-sample.json
 
 # json 파일 설정법
 
-json의 key는 memtier_benchmark의 command argument입니다. argument 앞의 -, --를 생략해서 입력합니다. short option(-S)과 long option(--server) 모두 사용 가능합니다.
+json의 key는 memtier_benchmark의 command argument입니다. argument 앞의 dash를 생략해서 입력합니다. short option(-S)과 long option(--server) 모두 사용 가능합니다.
 
 ## 예시 
 
