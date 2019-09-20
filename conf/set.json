@@ -1,5 +1,5 @@
 {
-    "server":"jam2in-t003",
+    "server":"127.0.0.1",
     "port":"11900",
     "threads":"5",
     "clients":"10",

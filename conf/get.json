@@ -1,6 +1,6 @@
 {
-    "server":"jam2in-t003",
-    "port":"11900",
+    "server":"127.0.0.1",
+    "port":"11211",
     "threads":"5",
     "clients":"10",
     "protocol":"memcache_text",
