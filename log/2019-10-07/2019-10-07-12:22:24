@@ -1,0 +1,21 @@
+100       Threads
+50        Connections per thread
+100000    Requests per client
+
+
+ALL STATS
+=========================================================================
+Type         Ops/sec     Hits/sec   Misses/sec      Latency       KB/sec 
+-------------------------------------------------------------------------
+Sets            0.00          ---          ---      0.00000         0.00 
+Gets            0.00         0.00         0.00      0.00000         0.00 
+Waits           0.00          ---          ---      0.00000          --- 
+Totals          0.00         0.00         0.00      0.00000         0.00 
+
+
+Request Latency Distribution
+Type     <= msec         Percent
+------------------------------------------------------------------------
+---
+---
+total 3.4G -rw-r----- 1 persistence persistence 1.1G Oct 4 16:04 cmdlog_1190904155838 -rw-r----- 1 persistence persistence 2.4G Oct 4 15:59 snapshot_1190904155838

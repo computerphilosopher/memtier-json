@@ -1,0 +1,13 @@
+{
+    "server":"10.33.46.113",
+    "port":"11333",
+    "threads":"20",
+    "c":"50",
+    "protocol":"memcache_text",
+    "data-size":"16",
+    "key-pattern":"P:P",
+    "key-minimum":"1",
+    "key-maximum":"40000000",
+    "ratio":"0:1",
+    "requests":"40000"
+}
