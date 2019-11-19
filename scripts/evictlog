@@ -1,0 +1,260 @@
+    1  15/11/19 11:58:24 ls
+    2  15/11/19 11:58:26 cd aj
+    3  15/11/19 11:58:26 ls
+    4  15/11/19 11:58:37 cd integration/
+    5  15/11/19 11:58:38 vi evict.pl 
+    6  15/11/19 11:59:08 cd ..
+    7  15/11/19 11:59:09 history
+    8  15/11/19 12:25:59 cd integration/
+    9  15/11/19 12:25:59 ls
+   10  15/11/19 12:26:00 vi evict.pl 
+   11  15/11/19 12:26:17 cd ..
+   12  15/11/19 12:26:27 perl evict.pl jam2in-m003 11911 5000
+   13  15/11/19 12:26:36 perl integration/evict.pl jam2in-m003 11911 5000
+   14  15/11/19 12:29:36 cd integration/
+   15  15/11/19 12:29:37 vi evict.pl 
+   16  15/11/19 12:29:47 cd ..
+   17  15/11/19 12:29:48 ls
+   18  15/11/19 12:29:48 cd
+   19  15/11/19 12:29:49 ls
+   20  15/11/19 12:29:50 cd mj
+   21  15/11/19 12:29:50 ls
+   22  15/11/19 12:29:57 cd ..
+   23  15/11/19 12:29:58 ls
+   24  15/11/19 12:29:59 cd aj
+   25  15/11/19 12:29:59 ls
+   26  15/11/19 12:30:04 cd integration/
+   27  15/11/19 12:30:07 vi evict.pl
+   28  15/11/19 12:30:37 cd ..
+   29  15/11/19 12:30:38 ls
+   30  15/11/19 12:30:44 history
+   31  15/11/19 12:30:48 perl integration/evict.pl jam2in-m003 11911 5000
+   32  15/11/19 12:32:48 cd integration/evict.pl
+   33  15/11/19 12:32:54 vi integration/evict.pl
+   34  15/11/19 12:33:15 perl integration/evict.pl jam2in-m003 11911 5000
+   35  15/11/19 13:13:21 ls
+   36  15/11/19 13:13:25 cd integration/
+   37  15/11/19 13:13:26 ls
+   38  15/11/19 13:13:30 vi evict.pl 
+   39  15/11/19 13:13:48 perl integration/evict.pl jam2in-m003 11911 5000
+   40  15/11/19 13:13:50 cd ..
+   41  15/11/19 13:13:51 perl integration/evict.pl jam2in-m003 11911 5000
+   42  15/11/19 13:15:14 cd integration/
+   43  15/11/19 13:15:15 ls
+   44  15/11/19 13:15:17 vi evit.pl
+   45  15/11/19 13:15:20 vi evict.pl
+   46  15/11/19 13:17:21 cd ..
+   47  15/11/19 13:17:24 perl integration/evict.pl jam2in-m003 11911 5000
+   48  15/11/19 13:25:58 vi integration/evict.pl 
+   49  15/11/19 13:26:27 perl integration/evict.pl jam2in-m003 11911 5000
+   50  15/11/19 13:29:16 vi client.java
+   51  15/11/19 13:30:39 ls
+   52  15/11/19 13:30:43 cd integration/
+   53  15/11/19 13:30:44 ls
+   54  15/11/19 13:30:48 vi evict.pl 
+   55  15/11/19 13:32:40 cd 
+   56  15/11/19 13:32:40 ls
+   57  15/11/19 13:32:41 cd mj
+   58  15/11/19 13:32:42 ls
+   59  15/11/19 13:32:44 cd conf
+   60  15/11/19 13:32:45 ls
+   61  15/11/19 13:32:48 vi vsize.json
+   62  15/11/19 13:33:07 cd ../scripts/
+   63  15/11/19 13:33:08 ls
+   64  15/11/19 13:33:11 ./perf.bash
+   65  15/11/19 13:34:00 vi perf.bash
+   66  15/11/19 13:34:31 ./perf.bash
+   67  15/11/19 13:38:45 vi perf.bash
+   68  15/11/19 13:38:55 vi vsize.bash
+   69  15/11/19 13:39:17 cd ..
+   70  15/11/19 13:39:17 ls
+   71  15/11/19 13:39:19 vi memtier-json.py 
+   72  15/11/19 13:42:42 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=1000000 --protocol=memcache_text --key-minimum=1 --clients=40 -R --data-size=100-48000 --server=jam2in-m003 --threads=10 --key-pattern=P:P --ratio=4:1 --requests=2500 --port=11911 > /home/persistence/memtier-json/log/2019-11-15-12
+   73  15/11/19 13:43:25 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=1000000 --protocol=memcache_text --key-minimum=/home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=1000000 --protocol=memcache_text --key-minimum=1 --clients=40 -R --data-size-range=100-48000 --server=jam2in-m003 --threads=10 --key-pattern=P:P --ratio=4:1 --requests=2500 --port=11911 > /home/persistence/memtier-json/log/2019-11-15-121 --clients=40 -R --data-size=100-48000 --server=jam2in-m003 --threads=10 --key-pattern=P:P --ratio=4:1 --requests=2500 --port=11911 > /home/persistence/memtier-json/log/2019-11-15-12
+   74  15/11/19 13:43:38 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=1000000 --protocol=memcache_text --key-minimum=/home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=1000000 --protocol=memcache_text --key-minimum=1 --clients=40 -R --data-size-range=100-48000 --server=jam2in-m003 --threads=10 --key-pattern=P:P --ratio=4:1 --requests=2500 --port=11911 > /home/persistence/memtier-json/log/2019-11-15-121 --clients=40 -R --data-size=100-48000 --server=jam2in-m003 --threads=10 --key-pattern=P:P --ratio=4:1 --requests=2500 --port=11911
+   75  15/11/19 13:44:03 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=1000000 --protocol=memcache_text --key-minimum=1 --clients=40 -R --data-size-range=100-48000 --server=jam2in-m003 --threads=10 --key-pattern=P:P --ratio=4:1 --requests=2500 --port=11911
+   76  15/11/19 13:55:09 pc /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=1000000 --protocol=memcache_text --key-minimum=1 --clients=40 -R --data-size-range=100-48000 --server=jam2in-m003 --threads=10 --key-pattern=P:P --ratio=1:0 --requests=2500 --port=11911
+   77  15/11/19 13:55:22 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=1000000 --protocol=memcache_text --key-minimum=1 --clients=40 -R --data-size-range=100-48000 --server=jam2in-m003 --threads=10 --key-pattern=P:P --ratio=1:0 --requests=2500 --port=11911
+   78  15/11/19 14:09:46 history
+   79  15/11/19 14:10:37 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=1000000 --protocol=memcache_text --key-minimum=1 --clients=40 -R --data-size-range=100-48000 --server=jam2in-m003 --threads=10 --key-pattern=P:P --ratio=1:0 --requests=2500 --port=11911
+   80  15/11/19 14:20:31 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 -R --data-size-range=100-48000 --server=jam2in-m003 --threads=10 --key-pattern=P:P --ratio=1:0 --requests=1250 --port=11911
+   81  15/11/19 14:22:31 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 -R --data-size-range=100-48000 --server=jam2in-m003 --threads=10 --key-pattern=P:P --ratio=1:4 --requests=1250 --port=11911
+   82  15/11/19 14:25:55 cd ..
+   83  15/11/19 14:25:55 ls
+   84  15/11/19 14:25:58 cd mj
+   85  15/11/19 14:25:58 ls
+   86  15/11/19 14:25:59 cd conf
+   87  15/11/19 14:25:59 ls
+   88  15/11/19 14:26:06 cp vsize.json range.json
+   89  15/11/19 14:26:08 vi range.json 
+   90  15/11/19 14:26:47 cd ..
+   91  15/11/19 14:26:47 ls
+   92  15/11/19 14:26:49 cd scripts/
+   93  15/11/19 14:26:49 ls
+   94  15/11/19 14:26:51 vi lib.bash
+   95  15/11/19 14:27:48 vi perf.bash
+   96  15/11/19 14:36:25 nohup ./perf.bash &
+   97  15/11/19 14:36:31 tail -f nohup.out
+   98  15/11/19 14:36:44 pc mem
+   99  15/11/19 14:36:51 pc pers
+  100  15/11/19 14:36:55 pkill memtier
+  101  15/11/19 14:36:57 pc mem
+  102  15/11/19 14:37:01 pkill -9 memtier
+  103  15/11/19 14:37:03 pc mem
+  104  15/11/19 14:37:09 kill -9 23539
+  105  15/11/19 14:37:12 kill -9 23540
+  106  15/11/19 14:37:15 pc mem
+  107  15/11/19 14:37:22 kill -9 23576
+  108  15/11/19 14:37:24 kill -9 23577
+  109  15/11/19 14:37:26 pc mem
+  110  15/11/19 14:37:30 kill -9 23578
+  111  15/11/19 14:37:35 kill -9 23622
+  112  15/11/19 14:37:36 kill -9 23623
+  113  15/11/19 14:37:37 pc mem
+  114  15/11/19 14:37:44 kill -9 23672
+  115  15/11/19 14:37:46 kill -9 23673
+  116  15/11/19 14:37:48 pc mem
+  117  15/11/19 14:37:51 pc pers
+  118  15/11/19 14:37:54 celar
+  119  15/11/19 14:37:55 clear
+  120  15/11/19 14:37:57 pc pers
+  121  15/11/19 14:38:04 vi perf.bash
+  122  15/11/19 14:38:23 history
+  123  15/11/19 14:38:33 nohup ./perf.bash &
+  124  15/11/19 14:38:40 tail -f nohup.out
+  125  15/11/19 14:48:57 pc pers
+  126  15/11/19 14:49:10 vi nohup.out
+  127  15/11/19 14:49:38 rm nohup.out
+  128  15/11/19 14:49:40 vi perf.bash
+  129  15/11/19 14:49:48 ./perf.bash
+  130  15/11/19 14:50:01 vi perf.bash
+  131  15/11/19 14:50:24 ./perf.bash
+  132  15/11/19 14:55:54 clear
+  133  15/11/19 14:56:00 ./perf.bash
+  134  15/11/19 14:59:06 vi perf.bash
+  135  15/11/19 15:06:16 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:0 --requests=1250 --port=11911 > master-evict
+  136* 15/11/19 15:08:29 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:0 --requests=1250 --port=11911 > master-evict
+  137  15/11/19 15:10:35 history
+  138  15/11/19 15:10:40 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:0 --requests=1250 --port=11911 > master-evict
+  139  15/11/19 15:14:37 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:4 --requests=1250 --port=11911 >> master-evict
+  140  15/11/19 15:14:39 history
+  141  15/11/19 15:14:55 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:0 --requests=1250 --port=11911 > master-evict && 139
+  142  15/11/19 15:16:43 perl integration/evict.pl jam2in-m003 11911 5000
+  143  15/11/19 15:16:46 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:4 --requests=1250 --port=11911 >> master-evict
+  144  15/11/19 15:18:51 vi perf.bash
+  145  15/11/19 15:19:32 ./perf.bash
+  146  15/11/19 15:19:46 vi perf.bash
+  147  15/11/19 15:19:59 ./perf.bash
+  148  15/11/19 15:21:19 vi perf.bash
+  149  15/11/19 15:21:55 ./perf.bash
+  150  15/11/19 15:25:00 vi perf.bash
+  151  15/11/19 15:26:17 ./perf.bash naver persistence
+  152  15/11/19 15:30:11 vi perf.bash
+  153  15/11/19 15:31:30 ./perf.bash naver master
+  154  15/11/19 15:35:14 history
+  155  15/11/19 15:35:37 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:0 --requests=1250 --port=11911 > master-evict && /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:4 --requests=1250 --port=11911 >> master-evict
+  156  15/11/19 15:37:43 cat master_evcit
+  157  15/11/19 15:37:45 cat master_evict
+  158  15/11/19 15:37:49 cat master-evict 
+  159  15/11/19 15:38:20 history
+  160  15/11/19 15:38:48 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:0 --requests=1250 --port=11911 > master-noevict
+  161  15/11/19 15:40:50 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:4 --requests=1250 --port=11911 >> master-noevict
+  162  15/11/19 15:43:38 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:0 --requests=1250 --port=11911 > persistence_evict
+  163  15/11/19 15:45:23 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:4 --requests=1250 --port=11911 >> persistence_evict
+  164  15/11/19 15:47:12 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:0 --requests=1250 --port=11911 > master_evict2
+  165  15/11/19 15:49:18 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:4 --requests=1250 --port=11911 >> master_evict2
+  166  15/11/19 15:50:24 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:0 --requests=1250 --port=11911 > master_noevict2
+  167  15/11/19 15:52:09 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:4 --requests=1250 --port=11911 >> master_noevict2
+  168  15/11/19 15:53:29 ls
+  169  15/11/19 15:54:52 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:0 --requests=1250 --port=11911 > persistence_evict2
+  170  15/11/19 15:56:35 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:4 --requests=1250 --port=11911 >> persistence_evict2
+  171  15/11/19 15:57:55 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:0 --requests=1250 --port=11911 > persistence_noevict2
+  172  15/11/19 15:59:40 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:4 --requests=1250 --port=11911 >> persistence_noevict2
+  173  15/11/19 16:04:04 ls
+  174  15/11/19 16:05:47 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:0 --requests=1250 --port=11911 > master_evict3
+  175  15/11/19 16:07:28 vi perf.bash
+  176  15/11/19 16:08:21 ./perf.bash naver master
+  177  15/11/19 16:08:51 vi perf.bash
+  178  15/11/19 16:09:01 ./perf.bash naver master
+  179  15/11/19 16:11:18 ./perf.bash naver persistence
+  180  15/11/19 16:12:10 cd ..
+  181  15/11/19 16:12:11 ls
+  182  15/11/19 16:12:12 cd log
+  183  15/11/19 16:12:12 ls
+  184  15/11/19 16:12:17 cat 2019-11-15-16:12:04
+  185  15/11/19 16:12:20 rm 2019-11-15-16:12:04
+  186  15/11/19 16:12:23 cat 2019-11-15-16:12:03
+  187  15/11/19 16:12:26 rm 2019-11-15-16:12:03
+  188  15/11/19 16:12:30 cat 2019-11-15-16:11:57
+  189  15/11/19 16:12:32 rm 2019-11-15-16:11:57
+  190  15/11/19 16:12:38 cat 2019-11-15-16:11:56
+  191  15/11/19 16:12:44 rm 2019-11-15-16:11:56
+  192  15/11/19 16:12:46 ls
+  193  15/11/19 16:12:50 cat 2019-11-15-16:11:37
+  194  15/11/19 16:12:53 rm 2019-11-15-16:11:37
+  195  15/11/19 16:12:58 cat 2019-11-15-16:11:36
+  196  15/11/19 16:13:00 rm 2019-11-15-16:11:36
+  197  15/11/19 16:13:39 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:0 --requests=1250 --port=11911 > master_evict
+  198  15/11/19 16:15:19 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:4 --requests=1250 --port=11911 >> master_evict
+  199  15/11/19 16:16:14 Request Latency Distribution
+  200  15/11/19 16:16:37 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:0 --requests=1250 --port=11911 > master_noevict
+  201  15/11/19 16:18:18 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:4 --requests=1250 --port=11911 >> master_noevict
+  202  15/11/19 16:20:38 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:0 --requests=1250 --port=11911 > persistence_evict
+  203  15/11/19 16:22:18 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:4 --requests=1250 --port=11911 >> persistence_evict
+  204  15/11/19 16:23:08 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:0 --requests=1250 --port=11911 > persistence_noevict
+  205  15/11/19 16:24:51 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:4 --requests=1250 --port=11911 >> persistence_noevict
+  206  15/11/19 16:27:05 git checkout master
+  207  15/11/19 16:28:55 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:0 --requests=1250 --port=11911 > master_evict2
+  208  15/11/19 16:31:05 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:4 --requests=1250 --port=11911 >> master_evict2
+  209  15/11/19 16:32:22 history
+  210  15/11/19 16:33:41  /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:0 --requests=1250 --port=11911 > master_noevict2
+  211  15/11/19 16:35:22  /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:4 --requests=1250 --port=11911 >> master_noevict2
+  212  15/11/19 16:37:48  /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:0 --requests=1250 --port=11911 > persistence_evict
+  213  15/11/19 16:40:05 history
+  214  15/11/19 16:40:58 ls
+  215  15/11/19 16:41:00 cd ..
+  216  15/11/19 16:41:02 cd scripts/
+  217  15/11/19 16:41:02 ls
+  218  15/11/19 16:41:04  /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:0 --requests=1250 --port=11911 > persistence_evict
+  219  15/11/19 16:42:55 ./perf.bash naver master
+  220  15/11/19 16:44:24 vi perf.bash
+  221  15/11/19 16:44:52 ./perf.bash naver master
+  222  15/11/19 16:45:00 vi perf.bash
+  223  15/11/19 16:45:29 ./perf.bash naver master
+  224* 15/11/19 16:45:51 ./perf.bash naver 
+  225* 15/11/19 16:46:36 
+  226  15/11/19 16:49:46 ./perf.bash naver persistence
+  227  15/11/19 16:50:27 cd ../log
+  228  15/11/19 16:50:28 ls
+  229  15/11/19 16:50:34 mkdir 2019-11-15
+  230  15/11/19 16:50:40 mv 2019-11-15* 2019-11-15
+  231  15/11/19 16:50:42 ls
+  232  15/11/19 16:54:45 vi perf.bash
+  233  15/11/19 16:54:49 cd ..
+  234  15/11/19 16:54:50 cd scripts/
+  235  15/11/19 16:54:51 ls
+  236  15/11/19 16:54:53 vi perf.bash
+  237  15/11/19 16:55:30 history
+  238  15/11/19 16:55:51 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:0 --requests=1250 --port=11911 > master_evict
+  239  15/11/19 16:58:29 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:0 --requests=1250 --port=11911 > master_no_evict
+  240  15/11/19 17:00:56 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:0 --requests=1250 --port=11911 > persistence_evict
+  241  15/11/19 17:03:06 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:0 --requests=1250 --port=11911 > persistence_no_evict
+  242  15/11/19 17:07:18 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:0 --requests=1250 --port=11911 > master_evict2
+  243  15/11/19 17:09:55 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:0 --requests=1250 --port=11911 > master_noevict2
+  244  15/11/19 17:12:18 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:0 --requests=1250 --port=11911 > persistence_evict2
+  245  15/11/19 17:14:26 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:0 --requests=1250 --port=11911 > persistence_noevict2
+  246  15/11/19 17:16:28 p/home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:0 --requests=1250 --port=11911 > master_evict3
+  247  15/11/19 17:16:38 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:0 --requests=1250 --port=11911 > master_evict3
+  248  15/11/19 17:18:34 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:0 --requests=1250 --port=11911 > master_noevict3
+  249  15/11/19 17:20:47 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:0 --requests=1250 --port=11911 > persistence_evict3
+  250  15/11/19 17:21:29 history
+  251  15/11/19 17:24:06 echo 'HISTTIMEFORMAT="%d/%m/%y %T "' >> ~/.bashrc
+  252  15/11/19 17:24:06 source ~/.bashrc
+  253  15/11/19 17:24:08 history
+  254  15/11/19 17:25:28 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:0 --requests=1250 --port=11911 > master_evict3
+  255  15/11/19 17:27:21 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:0 --requests=1250 --port=11911 > master_no_evict3
+  256  15/11/19 17:29:12 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:0 --requests=1250 --port=11911 > persistence_evict3
+  257  15/11/19 17:31:40 /home/persistence/memtier_benchmark/memtier_benchmark --key-maximum=500000 --protocol=memcache_text --key-minimum=1 --clients=40 --server=jam2in-m003 --threads=10 --data-size-range=100-48000 --key-pattern=P:P --ratio=1:0 --requests=1250 --port=11911 > persistence_no_evict3
+  258  15/11/19 17:35:27 33histor
+  259  15/11/19 17:35:28 history
+  260  15/11/19 17:49:46 history > evictlog

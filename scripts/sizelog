@@ -1,0 +1,231 @@
+Mon Nov 4 17:22:18 KST 2019 jam2in-m001
+total 0
+
+Mon Nov 4 17:24:26 KST 2019 jam2in-m001
+total 4.0K
+-rw-r----- 1 persistence persistence  0 Nov  4 17:22 cmdlog_20191104172241
+-rw-r----- 1 persistence persistence 48 Nov  4 17:22 snapshot_20191104172241
+
+Tue Nov 5 02:01:53 KST 2019 jam2in-m001
+total 0
+
+Tue Nov 5 03:17:11 KST 2019 jam2in-m001
+total 12G
+-rw-r----- 1 persistence persistence 9.3G Nov  5 03:17 cmdlog_20191105020217
+-rw-r----- 1 persistence persistence   48 Nov  5 02:02 snapshot_20191105020217
+
+Tue Nov 5 04:34:48 KST 2019 jam2in-m001
+total 8.7G
+-rw-r----- 1 persistence persistence 2.2G Nov  5 04:34 cmdlog_20191105040141
+-rw-r----- 1 persistence persistence 4.7G Nov  5 04:04 snapshot_20191105040141
+
+Tue Nov 5 05:40:31 KST 2019 jam2in-m003
+total 0
+
+Tue Nov 5 06:47:28 KST 2019 jam2in-m003
+total 12G
+-rw-r----- 1 persistence persistence 9.3G Nov  5 06:47 cmdlog_20191105054055
+-rw-r----- 1 persistence persistence   48 Nov  5 05:40 snapshot_20191105054055
+
+Tue Nov 5 07:55:16 KST 2019 jam2in-m003
+total 6.7G
+-rw-r----- 1 persistence persistence 1.1G Nov  5 07:55 cmdlog_20191105073924
+-rw-r----- 1 persistence persistence 4.7G Nov  5 07:41 snapshot_20191105073924
+
+Tue Nov 5 09:08:52 KST 2019 jam2in-m001
+total 0
+
+Tue Nov 5 10:24:49 KST 2019 jam2in-m001
+total 12G
+-rw-r----- 1 persistence persistence 9.3G Nov  5 10:24 cmdlog_20191105090915
+-rw-r----- 1 persistence persistence   48 Nov  5 09:09 snapshot_20191105090915
+
+Tue Nov 5 11:42:01 KST 2019 jam2in-m001
+total 8.7G
+-rw-r----- 1 persistence persistence 2.3G Nov  5 11:41 cmdlog_20191105110622
+-rw-r----- 1 persistence persistence 4.7G Nov  5 11:08 snapshot_20191105110622
+
+Tue Nov 5 12:48:01 KST 2019 jam2in-m003
+total 0
+
+Tue Nov 5 13:54:12 KST 2019 jam2in-m003
+total 12G
+-rw-r----- 1 persistence persistence 9.3G Nov  5 13:54 cmdlog_20191105124824
+-rw-r----- 1 persistence persistence   48 Nov  5 12:48 snapshot_20191105124824
+
+Tue Nov 5 15:02:29 KST 2019 jam2in-m003
+total 6.7G
+-rw-r----- 1 persistence persistence 1.2G Nov  5 15:02 cmdlog_20191105144515
+-rw-r----- 1 persistence persistence 4.7G Nov  5 14:47 snapshot_20191105144515
+
+Tue Nov 5 16:15:38 KST 2019 jam2in-m001
+total 0
+
+Tue Nov 5 17:31:29 KST 2019 jam2in-m001
+total 12G
+-rw-r----- 1 persistence persistence 9.3G Nov  5 17:31 cmdlog_20191105161602
+-rw-r----- 1 persistence persistence   48 Nov  5 16:16 snapshot_20191105161602
+
+Tue Nov 5 18:48:27 KST 2019 jam2in-m001
+total 8.7G
+-rw-r----- 1 persistence persistence 2.7G Nov  5 18:48 cmdlog_20191105180810
+-rw-r----- 1 persistence persistence 4.7G Nov  5 18:10 snapshot_20191105180810
+
+Tue Nov 5 19:53:28 KST 2019 jam2in-m003
+total 0
+
+Tue Nov 5 20:59:18 KST 2019 jam2in-m003
+total 12G
+-rw-r----- 1 persistence persistence 9.3G Nov  5 20:59 cmdlog_20191105195351
+-rw-r----- 1 persistence persistence   48 Nov  5 19:53 snapshot_20191105195351
+
+Tue Nov 5 22:07:13 KST 2019 jam2in-m003
+total 6.7G
+-rw-r----- 1 persistence persistence 1.3G Nov  5 22:07 cmdlog_20191105214908
+-rw-r----- 1 persistence persistence 4.7G Nov  5 21:51 snapshot_20191105214908
+
+Thu Nov 7 11:19:10 KST 2019 jam2in-m001
+total 0
+
+Thu Nov 7 19:03:48 KST 2019 jam2in-m001
+total 8.0G
+   0 drwxrwxr-x 2 persistence persistence   64 Nov  7 18:30 .
+4.0K drwxrwxr-x 5 persistence persistence 4.0K Nov  7 18:08 ..
+4.1G -rw-r----- 1 persistence persistence 2.8G Nov  7 19:03 cmdlog_20191107183000
+4.0G -rw-r----- 1 persistence persistence 4.0G Nov  7 18:30 snapshot_20191107183000
+
+Fri Nov 8 02:12:58 KST 2019 jam2in-m001
+total 0
+
+Fri Nov 8 03:23:28 KST 2019 jam2in-m003
+total 6.7G
+2.0G -rw-r----- 1 persistence persistence 1.2G Nov  8 03:23 cmdlog_20191108030555
+4.7G -rw-r----- 1 persistence persistence 4.7G Nov  8 03:08 snapshot_20191108030555
+
+Fri Nov 8 04:31:26 KST 2019 jam2in-m001
+total 0
+
+Fri Nov 8 05:40:17 KST 2019 jam2in-m003
+total 6.7G
+2.0G -rw-r----- 1 persistence persistence 1.2G Nov  8 05:40 cmdlog_20191108052334
+4.7G -rw-r----- 1 persistence persistence 4.7G Nov  8 05:26 snapshot_20191108052334
+
+Fri Nov 8 10:29:39 KST 2019 jam2in-m001
+total 0
+
+Fri Nov 8 10:38:41 KST 2019 jam2in-m001
+total 0
+
+Fri Nov 8 11:53:58 KST 2019 jam2in-m001
+total 7.9G
+4.1G -rw-r----- 1 persistence persistence 4.1G Nov  8 11:50 cmdlog_20191108105943
+3.9G -rw-r----- 1 persistence persistence 3.9G Nov  8 11:00 snapshot_20191108105943
+
+Fri Nov 8 18:22:18 KST 2019 jam2in-m001
+total 0
+
+Sat Nov 9 02:37:46 KST 2019
+
+
+Sat Nov 9 02:38:12 KST 2019 jam2in-m001
+total 0
+
+Sat Nov 9 02:38:47 KST 2019 jam2in-m001
+total 0
+
+Sat Nov 9 03:45:27 KST 2019 jam2in-m001
+total 0
+
+Mon Nov 11 11:05:51 KST 2019 jam2in-m001
+total 0
+
+Mon Nov 11 11:06:03 KST 2019 jam2in-m001
+total 0
+
+Mon Nov 11 11:07:13 KST 2019 jam2in-m001
+total 0
+
+Mon Nov 11 11:08:38 KST 2019 jam2in-m001
+total 0
+
+Mon Nov 11 11:36:42 KST 2019 jam2in-m001
+total 4.1G
+4.1G -rw-r----- 1 persistence persistence 4.1G Nov 11 11:33 cmdlog_20191111110901
+4.0K -rw-r----- 1 persistence persistence   48 Nov 11 11:09 snapshot_20191111110901
+
+Mon Nov 11 11:38:42 KST 2019 jam2in-m001
+total 257M
+257M -rw-r----- 1 persistence persistence 217M Nov 11 11:38 cmdlog_20191111113707
+4.0K -rw-r----- 1 persistence persistence   48 Nov 11 11:37 snapshot_20191111113707
+
+Mon Nov 11 11:40:07 KST 2019 jam2in-m001
+total 0
+
+Mon Nov 11 13:02:07 KST 2019 jam2in-m003
+total 0
+
+Mon Nov 11 13:22:29 KST 2019 jam2in-m003
+total 4.1G
+4.1G -rw-r----- 1 persistence persistence 4.1G Nov 11 13:20 cmdlog_20191111130235
+4.0K -rw-r----- 1 persistence persistence   48 Nov 11 13:02 snapshot_20191111130235
+
+Mon Nov 11 14:31:57 KST 2019 jam2in-m003
+total 7.8G
+4.1G -rw-r----- 1 persistence persistence 4.1G Nov 11 14:30 cmdlog_20191111134243
+3.8G -rw-r----- 1 persistence persistence 3.8G Nov 11 13:43 snapshot_20191111134243
+
+Mon Nov 11 15:46:20 KST 2019 jam2in-m001
+total 0
+
+Mon Nov 11 16:07:28 KST 2019 jam2in-m001
+total 4.1G
+4.1G -rw-r----- 1 persistence persistence 4.0G Nov 11 16:05 cmdlog_20191111154643
+4.0K -rw-r----- 1 persistence persistence   48 Nov 11 15:46 snapshot_20191111154643
+
+Mon Nov 11 16:48:17 KST 2019 jam2in-m001
+total 6.1G
+4.1G -rw-r----- 1 persistence persistence 4.1G Nov 11 16:47 cmdlog_20191111161623
+428K -rw-r----- 1 persistence persistence 426K Nov 11 16:47 cmdlog_20191111164723
+1.7G -rw-r----- 1 persistence persistence 1.7G Nov 11 16:16 snapshot_20191111161623
+414M -rw-r----- 1 persistence persistence 414M Nov 11 16:47 snapshot_20191111164723
+
+Mon Nov 11 17:54:49 KST 2019 jam2in-m003
+total 0
+
+Mon Nov 11 18:14:17 KST 2019 jam2in-m003
+total 4.1G
+4.1G -rw-r----- 1 persistence persistence 4.1G Nov 11 18:13 cmdlog_20191111175513
+4.0K -rw-r----- 1 persistence persistence   48 Nov 11 17:55 snapshot_20191111175513
+
+Mon Nov 11 18:53:42 KST 2019 jam2in-m003
+total 5.8G
+4.1G -rw-r----- 1 persistence persistence 4.1G Nov 11 18:53 cmdlog_20191111182339
+1.8G -rw-r----- 1 persistence persistence 1.8G Nov 11 18:24 snapshot_20191111182339
+
+Mon Nov 11 20:06:32 KST 2019 jam2in-m001
+total 0
+
+Mon Nov 11 20:26:41 KST 2019 jam2in-m001
+total 4.1G
+4.1G -rw-r----- 1 persistence persistence 4.1G Nov 11 20:25 cmdlog_20191111200655
+4.0K -rw-r----- 1 persistence persistence   48 Nov 11 20:06 snapshot_20191111200655
+
+Mon Nov 11 20:52:20 KST 2019 jam2in-m001
+total 4.9G
+3.1G -rw-r----- 1 persistence persistence 3.1G Nov 11 20:51 cmdlog_20191111203630
+1.3M -rw-r----- 1 persistence persistence 1.3M Nov 11 20:51 cmdlog_20191111205110
+1.8G -rw-r----- 1 persistence persistence 1.8G Nov 11 20:36 snapshot_20191111203630
+
+Mon Nov 11 21:57:16 KST 2019 jam2in-m003
+total 0
+
+Mon Nov 11 22:16:24 KST 2019 jam2in-m003
+total 4.1G
+4.1G -rw-r----- 1 persistence persistence 4.0G Nov 11 22:15 cmdlog_20191111215739
+4.0K -rw-r----- 1 persistence persistence   48 Nov 11 21:57 snapshot_20191111215739
+
+Mon Nov 11 22:41:04 KST 2019 jam2in-m003
+total 4.9G
+3.3G -rw-r----- 1 persistence persistence 3.3G Nov 11 22:40 cmdlog_20191111222511
+1.7G -rw-r----- 1 persistence persistence 1.7G Nov 11 22:25 snapshot_20191111222511
+

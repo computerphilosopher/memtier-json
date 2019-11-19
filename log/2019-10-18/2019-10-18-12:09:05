@@ -1,0 +1,21 @@
+20        Threads
+50        Connections per thread
+700       Requests per client
+
+
+ALL STATS
+=========================================================================
+Type         Ops/sec     Hits/sec   Misses/sec      Latency       KB/sec 
+-------------------------------------------------------------------------
+Sets            0.00          ---          ---      0.00000         0.00 
+Gets            0.00         0.00         0.00      0.00000         0.00 
+Waits           0.00          ---          ---      0.00000          --- 
+Totals          0.00         0.00         0.00      0.00000         0.00 
+
+
+Request Latency Distribution
+Type     <= msec         Percent
+------------------------------------------------------------------------
+---
+---
+total 0
